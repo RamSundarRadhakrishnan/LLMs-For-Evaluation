@@ -1,0 +1,678 @@
+[
+  {
+    "sample_id": "HIS12_HARAPPA_POWER_001",
+    "question": "The archaeological records provide no immediate answer of the existence of centre of power. Give suitable examples to prove the statement in the context of Harappa.",
+    "student_answer": "There is no doubt that that the archaeological findings provide no immediate answer to the Harappa’s central authority. Many views have been given regarding the central authority. Following are some of them:\n- A large building found at Mohenjodaro but no spectacular finds were associated with it.\n- A stone statue was found at the site of Mohenjodaro which have been labelled as the ‘priest king’.",
+    "answer_key": "The archaeological record does not clearly reveal whether Harappan society had a single central authority or multiple centres of power. Evidence such as the large building at Mohenjodaro, the so-called priest-king statue, the uniformity in bricks, weights, seals and settlement planning, and the absence of clear royal tombs or palaces can be interpreted in different ways. Some scholars suggest there may have been rulers, while others suggest different groups such as merchants, priests or local elites may have exercised authority.",
+    "rubrics": [
+      "States that archaeological evidence does not give a clear or immediate answer about Harappan central authority",
+      "Mentions the large building at Mohenjodaro and explains that it was not associated with spectacular royal finds",
+      "Mentions the stone statue from Mohenjodaro labelled as the priest-king",
+      "Explains that the priest-king interpretation is uncertain or not conclusive evidence of monarchy",
+      "Mentions that uniformity in artefacts, planning, bricks, weights or seals suggests some form of organisation",
+      "Mentions that absence of clear palaces, royal tombs or obvious rulers makes the nature of power uncertain"
+    ],
+    "entailment_evidence": [
+      {
+        "criterion": "States that archaeological evidence does not give a clear or immediate answer about Harappan central authority",
+        "verdict": "entailment",
+        "confidence": 0.9979656934738159,
+        "raw_scores": {
+          "contradiction": 4.560051820590161e-05,
+          "entailment": 0.9979656934738159,
+          "neutral": 0.001988752745091915
+        }
+      },
+      {
+        "criterion": "Mentions the large building at Mohenjodaro and explains that it was not associated with spectacular royal finds",
+        "verdict": "entailment",
+        "confidence": 0.5623226761817932,
+        "raw_scores": {
+          "contradiction": 0.003994077444076538,
+          "entailment": 0.5623226761817932,
+          "neutral": 0.43368324637413025
+        }
+      },
+      {
+        "criterion": "Mentions the stone statue from Mohenjodaro labelled as the priest-king",
+        "verdict": "entailment",
+        "confidence": 0.9958940744400024,
+        "raw_scores": {
+          "contradiction": 0.0001630992628633976,
+          "entailment": 0.9958940744400024,
+          "neutral": 0.0039428165182471275
+        }
+      },
+      {
+        "criterion": "Explains that the priest-king interpretation is uncertain or not conclusive evidence of monarchy",
+        "verdict": "neutral",
+        "confidence": 0.9881075024604797,
+        "raw_scores": {
+          "contradiction": 0.0014728761743754148,
+          "entailment": 0.010419593192636967,
+          "neutral": 0.9881075024604797
+        }
+      },
+      {
+        "criterion": "Mentions that uniformity in artefacts, planning, bricks, weights or seals suggests some form of organisation",
+        "verdict": "neutral",
+        "confidence": 0.9989067316055298,
+        "raw_scores": {
+          "contradiction": 0.0008337009348906577,
+          "entailment": 0.0002595618716441095,
+          "neutral": 0.9989067316055298
+        }
+      },
+      {
+        "criterion": "Mentions that absence of clear palaces, royal tombs or obvious rulers makes the nature of power uncertain",
+        "verdict": "neutral",
+        "confidence": 0.9947996139526367,
+        "raw_scores": {
+          "contradiction": 0.0014959746040403843,
+          "entailment": 0.0037043471820652485,
+          "neutral": 0.9947996139526367
+        }
+      }
+    ],
+    "evaluation": {
+      "reasoning": "The student correctly states that archaeological evidence does not give a clear or immediate answer about Harappan central authority (entailment 0.998). They provide two relevant examples: the large building at Mohenjodaro lacking spectacular royal finds (entailment 0.56, indicating partial coverage) and the stone statue labelled as the 'priest‑king' (entailment 0.996). However, they do not discuss the uncertainty of the priest‑king interpretation, the significance of uniform artefacts/weights/seals, or the absence of clear palaces, royal tombs, or obvious rulers—points that would strengthen the argument. Given the generous partial‑credit approach, the answer demonstrates solid understanding of two rubrics and partial understanding of a third, warranting 2 out of 3 marks.",
+      "concepts_in_question": [
+        "Harappan central authority",
+        "Archaeological evidence and its limitations",
+        "Mohenjodaro large building",
+        "Priest‑king statue",
+        "Uniformity of artefacts, planning, bricks, weights, seals",
+        "Absence of clear palaces, royal tombs, or obvious rulers"
+      ],
+      "concepts_mastered": [
+        "Statement that archaeological evidence does not give a clear or immediate answer about Harappan central authority",
+        "Reference to the large building at Mohenjodaro lacking spectacular royal finds",
+        "Reference to the stone statue from Mohenjodaro labelled as the 'priest‑king'"
+      ],
+      "knowledge_gap": [
+        "Explanation that the priest‑king interpretation is uncertain or not conclusive evidence of monarchy",
+        "Discussion of uniformity in artefacts, planning, bricks, weights, or seals as suggestive of organisation",
+        "Mention that the absence of clear palaces, royal tombs, or obvious rulers makes the nature of power uncertain"
+      ],
+      "misconceptions": [
+        "The student labels the statue as the 'priest‑king' without noting the interpretive uncertainty, which could be read as presenting it as definitive evidence of a ruler."
+      ],
+      "feedback_for_improvement": [
+        "When citing the priest‑king statue, explicitly note that its identification is speculative and not proof of monarchy.",
+        "Include other archaeological observations such as the uniformity of brick sizes, weights, and seal motifs, which hint at some form of administration.",
+        "Point out the lack of obvious royal structures (palaces, elaborate tombs) as further evidence that the nature of Harappan power remains unclear."
+      ],
+      "total_possible_marks": 3,
+      "marks_awarded": 2
+    },
+    "token_usage": {
+      "prompt_tokens": 1630,
+      "completion_tokens": 1183,
+      "total_tokens": 2813
+    }
+  },
+  {
+    "sample_id": "HIS12_VIJAYANAGARA_FORTS_001",
+    "question": "Abdur Razzaq, an ambassador sent by the ruler of Persia to Calicut in the fifteenth century, was greatly impressed by the fortifications and mentioned seven lines of forts. Substantiate the statement with suitable examples.",
+    "student_answer": "The first dynasty, known as the Sangama dynasty, exercised control till 1485. They were supplanted by the Saluvas, military commanders, who remained in power till 1503 when they were replaced by the Tuluvas.\n- Krishnadeva Raya belonged to the Tuluva dynasty. He ruled from 1509 till 1529 C.E. Following were his main achievements:\n- The land between the Tungabhadra and Krishna rivers, the Raichur doab, was acquired in 1512.\n- The rulers of Orissa were subdued in 1514 and severe defeats were inflicted on the Sultan of Bijapur in 1520.\n- Although the kingdom remained in a constant state of military preparedness, it flourished under conditions of unparalleled peace and prosperity.\n- Krishnadeva Raya is credited with building some fine temples and adding impressive gopurams to many important south Indian temples. He also founded a suburban township near Vijayanagara called Nagalapuram after his mother.\n- Krishnadeva Raya, the most famous ruler of Vijayanagara, composed a work on statecraft in Telugu known as the Amuktamalyada.\n- Although the armies of the Sultans were responsible for the destruction of the city of Vijayanagara, relations between the Sultans and the rayas were not always hostile. Krishnadeva Raya supported some claimants to power in the Sultanates.\n- Many foreign travellers like Barbosa, Paes and Fernao Nuniz wrote about the good administration and prosperity of the Vijayanagar kingdom.\n- In the end, it is clear that Krishna D",
+    "answer_key": "Vijayanagara was strongly fortified and impressed visitors such as Abdur Razzaq, who mentioned seven lines of forts. The fortifications enclosed not only the city but also agricultural tracts, forests and water resources. The outer walls linked hills and used natural boulders as part of the defence. Roads passed through gateways, and the city had a complex arrangement of walls, gates and guarded entrances. These features show the importance of defence, control of resources and the grandeur of the capital.",
+    "rubrics": [
+      "Mentions that Abdur Razzaq described seven lines of forts around Vijayanagara",
+      "Explains that the fortifications enclosed the city as well as agricultural fields or cultivated areas",
+      "Mentions that the fortifications enclosed forests, water resources or other resources needed during sieges",
+      "Mentions that the outer walls linked hills or used the natural landscape and boulders for defence",
+      "Mentions gateways, guarded entrances or roads passing through fort gates",
+      "Explains that the fortifications show military preparedness, security and control over the capital",
+      "Provides examples specific to Vijayanagara fortifications rather than only discussing rulers or dynasties"
+    ],
+    "entailment_evidence": [
+      {
+        "criterion": "Mentions that Abdur Razzaq described seven lines of forts around Vijayanagara",
+        "verdict": "neutral",
+        "confidence": 0.6600217819213867,
+        "raw_scores": {
+          "contradiction": 0.33972516655921936,
+          "entailment": 0.0002530944475438446,
+          "neutral": 0.6600217819213867
+        }
+      },
+      {
+        "criterion": "Explains that the fortifications enclosed the city as well as agricultural fields or cultivated areas",
+        "verdict": "neutral",
+        "confidence": 0.941118061542511,
+        "raw_scores": {
+          "contradiction": 0.058613814413547516,
+          "entailment": 0.00026813842123374343,
+          "neutral": 0.941118061542511
+        }
+      },
+      {
+        "criterion": "Mentions that the fortifications enclosed forests, water resources or other resources needed during sieges",
+        "verdict": "neutral",
+        "confidence": 0.9445478916168213,
+        "raw_scores": {
+          "contradiction": 0.05521475896239281,
+          "entailment": 0.0002373487950535491,
+          "neutral": 0.9445478916168213
+        }
+      },
+      {
+        "criterion": "Mentions that the outer walls linked hills or used the natural landscape and boulders for defence",
+        "verdict": "neutral",
+        "confidence": 0.9505220651626587,
+        "raw_scores": {
+          "contradiction": 0.04925934597849846,
+          "entailment": 0.00021855071827303618,
+          "neutral": 0.9505220651626587
+        }
+      },
+      {
+        "criterion": "Mentions gateways, guarded entrances or roads passing through fort gates",
+        "verdict": "neutral",
+        "confidence": 0.9509595036506653,
+        "raw_scores": {
+          "contradiction": 0.04877510294318199,
+          "entailment": 0.00026538458769209683,
+          "neutral": 0.9509595036506653
+        }
+      },
+      {
+        "criterion": "Explains that the fortifications show military preparedness, security and control over the capital",
+        "verdict": "neutral",
+        "confidence": 0.8736995458602905,
+        "raw_scores": {
+          "contradiction": 0.12590152025222778,
+          "entailment": 0.0003989190445281565,
+          "neutral": 0.8736995458602905
+        }
+      },
+      {
+        "criterion": "Provides examples specific to Vijayanagara fortifications rather than only discussing rulers or dynasties",
+        "verdict": "neutral",
+        "confidence": 0.893787145614624,
+        "raw_scores": {
+          "contradiction": 0.10589365661144257,
+          "entailment": 0.00031925892108120024,
+          "neutral": 0.893787145614624
+        }
+      }
+    ],
+    "evaluation": {
+      "reasoning": "The student's answer discusses the dynasties of Vijayanagara and the achievements of Krishnadeva Raya but does not mention Abdur Razzaq, his observation of seven lines of forts, or any specific features of the Vijayanagara fortifications. All entailment scores for the rubrics are neutral, indicating that the answer provides no explicit support for any of the required points. Since the answer fails to address the question's focus on substantiating Abdur Razzaq's statement with examples of fortifications, it is considered irrelevant to the prompt.",
+      "concepts_in_question": [
+        "Abdur Razzaq's account of Vijayanagara fortifications",
+        "Seven lines of forts around Vijayanagara",
+        "Features of Vijayanagara defenses (agricultural fields, water resources, natural landscape, gateways, military preparedness)",
+        "Use of specific historical examples to substantiate a traveler's observation"
+      ],
+      "concepts_mastered": [
+        "Succession of Vijayanagara dynasties (Sangama, Saluva, Tuluva)",
+        "Reign and achievements of Krishnadeva Raya"
+      ],
+      "knowledge_gap": [
+        "Abdur Razzaq's observation of seven lines of forts",
+        "Description of how fortifications enclosed city, agricultural fields, forests, water resources",
+        "Use of hills, boulders, and natural landscape in defensive walls",
+        "Presence of gateways, guarded entrances, and roads through fort gates",
+        "How fortifications reflect military preparedness, security, and control over the capital",
+        "Providing concrete examples specific to Vijayanagara fortifications rather than dynastic history"
+      ],
+      "misconceptions": [
+        "The student may have conflated the general history of Vijayanagara with the specific request for evidence of fortifications, leading to an answer that, while accurate about dynastic succession, does not fulfill the question's requirement."
+      ],
+      "feedback_for_improvement": [
+        "Read the question carefully and identify exactly what is being asked—here, the focus is on Abdur Razzaq's remark about seven lines of forts.",
+        "When asked to 'substantiate with suitable examples,' provide direct evidence from the source (Abdur Razzaq's account) and describe specific features of the fortifications.",
+        "Review textbook sections on Vijayanagara's urban defenses, noting points such as the seven concentric walls, enclosure of agricultural zones, use of rocky terrain, and major gateways.",
+        "Practice structuring answers that begin with a direct response to the prompt, followed by two or three specific examples, and conclude with a brief explanation of their significance."
+      ],
+      "marks_awarded": 0,
+      "total_possible_marks": 8
+    },
+    "token_usage": {
+      "prompt_tokens": 2040,
+      "completion_tokens": 1044,
+      "total_tokens": 3084
+    }
+  },
+  {
+    "sample_id": "PE12_CIRCUIT_TRAINING_001",
+    "question": "What do you understand by circuit training? How will a coach plan circuit training sessions with 6 stations to develop the fitness of his new trainees? Explain.",
+    "student_answer": "1. Conceptual Framework of Circuit Training\nCircuit training is a systematized, multidimensional physical conditioning paradigm characterized by the sequential execution of biomechanically diverse activities. It is fundamentally orchestrated to facilitate holistic bio-motor adaptation within a highly regulated temporal framework. By linking functional modalities into a continuous loop, it optimizes the systemic physiological demands, simultaneously triggering cardiovascular resilience and musculoskeletal hypertrophy through calculated, uninterrupted kinetic flows.\n\n2. Strategic Implementation for New Trainees\nFor a novel cohort of trainees, a coach must meticulously calibrate the systemic load parameters. The primary objective is to establish neuromuscular efficiency and foundational kinetic awareness without inducing acute physiological burnout. The coach achieves this by manipulating the work-to-rest ratio paradigm and ensuring that the inter-station transitional fluidity aligns with the trainees' baseline metabolic thresholds.\n\n3. The 6-Station Structural Matrix\nTo actualize holistic fitness development, the coach will deploy the following 6-station bio-motor sequence:\n\nStation 1: Upper-Extremity Neuromuscular Activation\nThe initiation phase focuses on the concentric and eccentric mobilization of the superior kinetic chain, stimulating foundational upper-body functional capacity through gravity-resisted engagement.\n\nStation 2: Core-Centric Stabilization Matrix\nTrainees transition to dynamic isometric integrations aimed at fortifying the lumbo-pelvic structural integrity, which is essential for systemic force transfer and postural equilibrium.\n\nStation 3: Inferior Limb Dynamic Load Integration\nThis station targets the gluteo-femoral complex by demanding rhythmic, bilateral force production, maximizing the functional threshold of the lower anatomical extremities.\n\nStation 4: Systemic Cardiorespiratory Elevation\nImplementing cyclical, high-frequency kinetic movements designed explicitly to challenge the aerobic capacity and stimulate mitochondrial respiration at an optimized sub-maximal intensity.\n\nStation 5: Proprioceptive Spatial Orientation\nA multidirectional phase utilizing multi-planar transitional drills to foster enhanced neuromuscular coordination, kinetic agility, and joint mechanoreceptor engagement.\n\nStation 6: Holistic Biomechanical Harmonization\nThe culminating sequence serves as an active physiological recalibration. It integrates full-body kinetic linkages to distribute metabolic fatigue evenly while slowly returning the autonomic nervous system toward a state of homeostasis.\n\nConclusion:\nUltimately, by rotating new trainees through this meticulously balanced six-stage kinetic continuum, the coach ensures an optimal trajectory of progressive overload, thereby laying an unshakable foundation for advanced athletic realization.",
+    "answer_key": "Circuit training is a training method in which a person performs a series of exercises at different stations, usually one after another with fixed work and rest intervals. A coach planning circuit training for new trainees should choose safe and simple exercises covering different components of fitness such as strength, endurance, flexibility, agility and coordination. A six-station circuit may include exercises such as push-ups, sit-ups or crunches, squats, skipping or jumping jacks, shuttle runs and stretching or mobility work. The coach should decide duration or repetitions, rest intervals, sequence of stations, number of circuits, warm-up, cool-down, safety precautions and progressive increase in load.",
+    "rubrics": [
+      "Defines circuit training as a sequence of exercises performed at different stations",
+      "Mentions that exercises are performed one after another in a circuit with fixed work and rest intervals or repetitions",
+      "Explains that circuit training develops multiple fitness components such as strength, endurance, flexibility, agility or coordination",
+      "Describes a six-station plan suitable for new trainees",
+      "Includes specific examples of exercises for six stations",
+      "Mentions appropriate work-rest ratio, duration, repetitions or number of rounds",
+      "Mentions warm-up, cool-down, safety or gradual progression for new trainees",
+      "Ensures the six stations cover different body parts or fitness components"
+    ],
+    "entailment_evidence": [
+      {
+        "criterion": "Defines circuit training as a sequence of exercises performed at different stations",
+        "verdict": "entailment",
+        "confidence": 0.969224750995636,
+        "raw_scores": {
+          "contradiction": 0.0024739953223615885,
+          "entailment": 0.969224750995636,
+          "neutral": 0.028301289305090904
+        }
+      },
+      {
+        "criterion": "Mentions that exercises are performed one after another in a circuit with fixed work and rest intervals or repetitions",
+        "verdict": "neutral",
+        "confidence": 0.8717405796051025,
+        "raw_scores": {
+          "contradiction": 0.035692259669303894,
+          "entailment": 0.09256715327501297,
+          "neutral": 0.8717405796051025
+        }
+      },
+      {
+        "criterion": "Explains that circuit training develops multiple fitness components such as strength, endurance, flexibility, agility or coordination",
+        "verdict": "entailment",
+        "confidence": 0.5509193539619446,
+        "raw_scores": {
+          "contradiction": 0.002157574286684394,
+          "entailment": 0.5509193539619446,
+          "neutral": 0.44692304730415344
+        }
+      },
+      {
+        "criterion": "Describes a six-station plan suitable for new trainees",
+        "verdict": "entailment",
+        "confidence": 0.9960592985153198,
+        "raw_scores": {
+          "contradiction": 0.000583044602535665,
+          "entailment": 0.9960592985153198,
+          "neutral": 0.003357674228027463
+        }
+      },
+      {
+        "criterion": "Includes specific examples of exercises for six stations",
+        "verdict": "neutral",
+        "confidence": 0.9985516667366028,
+        "raw_scores": {
+          "contradiction": 0.0004095027397852391,
+          "entailment": 0.001038888469338417,
+          "neutral": 0.9985516667366028
+        }
+      },
+      {
+        "criterion": "Mentions appropriate work-rest ratio, duration, repetitions or number of rounds",
+        "verdict": "neutral",
+        "confidence": 0.8305171132087708,
+        "raw_scores": {
+          "contradiction": 0.014908233657479286,
+          "entailment": 0.1545746773481369,
+          "neutral": 0.8305171132087708
+        }
+      },
+      {
+        "criterion": "Mentions warm-up, cool-down, safety or gradual progression for new trainees",
+        "verdict": "neutral",
+        "confidence": 0.9195978045463562,
+        "raw_scores": {
+          "contradiction": 0.025045104324817657,
+          "entailment": 0.055357176810503006,
+          "neutral": 0.9195978045463562
+        }
+      },
+      {
+        "criterion": "Ensures the six stations cover different body parts or fitness components",
+        "verdict": "neutral",
+        "confidence": 0.8325850963592529,
+        "raw_scores": {
+          "contradiction": 0.011452222242951393,
+          "entailment": 0.155962735414505,
+          "neutral": 0.8325850963592529
+        }
+      }
+    ],
+    "evaluation": {
+      "reasoning": "The student provided a strong conceptual definition of circuit training and a detailed six‑station plan tailored for new trainees, which satisfies rubrics 1 and 4 with high entailment confidence. The answer also implies development of multiple fitness components and mentions manipulating work‑to‑rest ratios, giving partial credit for rubrics 3 and 6. However, the response lacks explicit statements about fixed work/rest intervals, concrete exercise examples, warm‑up/cool‑down safety procedures, and clear enumeration of the fitness components targeted, resulting in neutral or low entailment for rubrics 2, 5, 7, and 8. Consequently, marks are awarded proportionally to the demonstrated understanding.",
+      "concepts_in_question": [
+        "Definition of circuit training",
+        "Work‑and‑rest intervals or repetitions",
+        "Development of multiple fitness components (strength, endurance, flexibility, agility, coordination)",
+        "Designing a six‑station plan for beginners",
+        "Specific exercise examples for each station",
+        "Appropriate work‑rest ratio, duration, repetitions or rounds",
+        "Warm‑up, cool‑down, safety, gradual progression",
+        "Coverage of different body parts or fitness components across stations"
+      ],
+      "concepts_mastered": [
+        "Circuit training as a sequence of exercises at different stations",
+        "Structuring a six‑station session for novice trainees",
+        "Linking stations to upper body, core, lower body, cardio, proprioception, and holistic integration",
+        "General mention of manipulating work‑to‑rest ratios",
+        "Implicit development of various fitness components through station variety"
+      ],
+      "knowledge_gap": [
+        "Explicit statement of fixed work and rest intervals or repetition schemes",
+        "Concrete exercise examples (e.g., push‑ups, squats, jumping jacks) for each station",
+        "Details of warm‑up, cool‑down, safety precautions, or gradual progression",
+        "Clear articulation of which fitness components each station targets",
+        "Specific numbers for duration, repetitions, or rounds"
+      ],
+      "misconceptions": [],
+      "feedback_for_improvement": [
+        "State the work and rest time (e.g., 30 seconds work, 15 seconds rest) or number of repetitions per station.",
+        "Name a specific exercise for each of the six stations (e.g., push‑ups, plank, lunges, skipping, ladder drills, full‑body circuit).",
+        "Include a brief warm‑up (light jogging, dynamic stretches) and cool‑down (static stretching) and mention safety points like proper form and hydration.",
+        "Explicitly list the fitness components each station develops (strength, endurance, etc.) to show comprehensive understanding.",
+        "Indicate how many circuits the trainees will complete and how the load will progress over weeks."
+      ],
+      "marks_awarded": 4,
+      "total_possible_marks": 8
+    },
+    "token_usage": {
+      "prompt_tokens": 2308,
+      "completion_tokens": 1381,
+      "total_tokens": 3689
+    }
+  },
+  {
+    "sample_id": "CHEM12_FE_EDTA_001",
+    "question": "Iron-EDTA complex in food fortification: Based on the given passage about Fe(III)-EDTA and ferrous sulphate in iron fortification, answer: I. Why is Fe(III)-EDTA complex stable as compared to ferrous sulphate? II. As a doctor working in Somalia, will you recommend iron fortified food to your patients? Support your answer with references from the passage. III. What is the denticity of the ligand in the Fe(III)-EDTA complex? Name the atoms through which it can bind to the central metal ion.",
+    "student_answer": "I. EDTA is a chelating agent, it forms ringed complex with the central metal ion and makes the complex stable.\nII. Yes, 40% of the population in Africa suffers from anaemia. Most of the patients in Somalia are likely to be anaemic. Iron fortified food will have increased the nutritional value. In the same amount of food product the patient will get higher amount of the micronutrient than present in natural product. This will help reduce cases of iron deficiency in Somalia. However, patients will be advised to consume the food product according to the recommended safe limits of the fortificant.\nIII. Denticity = 6, 2 Nitrogen and 4 oxygen are electron donors",
+    "answer_key": "Fe(III)-EDTA is more stable than ferrous sulphate because EDTA is a hexadentate chelating ligand that forms a stable ring complex with Fe(III), preventing precipitation in beverages such as tea. Iron fortified food can be recommended in Somalia because the passage states that about 40% of the population in African and South Asian countries suffers from anaemia, iron fortification can fight iron deficiency, Fe(III)-EDTA has better absorption and does not precipitate for at least 24 hours in tea. It should be consumed within safe limits because excessive EDTA may cause harmful effects. EDTA has denticity 6 and binds through two nitrogen atoms and four oxygen atoms.",
+    "rubrics": [
+      "States that EDTA is a chelating agent",
+      "Explains that EDTA forms a stable ring or chelate complex with Fe(III)",
+      "Compares Fe(III)-EDTA with ferrous sulphate by mentioning better absorption or less precipitation",
+      "Recommends iron fortified food in Somalia based on high anaemia or iron deficiency in African populations",
+      "Supports the recommendation using passage evidence about iron fortification increasing nutritional value or preventing micronutrient deficiency",
+      "Mentions caution about safe limits or possible harmful effects of excess EDTA",
+      "States that EDTA has denticity six in the Fe(III)-EDTA complex",
+      "Identifies two nitrogen atoms and four oxygen atoms as donor atoms"
+    ],
+    "entailment_evidence": [
+      {
+        "criterion": "States that EDTA is a chelating agent",
+        "verdict": "entailment",
+        "confidence": 0.9876400828361511,
+        "raw_scores": {
+          "contradiction": 8.319840708281845e-05,
+          "entailment": 0.9876400828361511,
+          "neutral": 0.012276735156774521
+        }
+      },
+      {
+        "criterion": "Explains that EDTA forms a stable ring or chelate complex with Fe(III)",
+        "verdict": "neutral",
+        "confidence": 0.999005138874054,
+        "raw_scores": {
+          "contradiction": 0.0003557884774636477,
+          "entailment": 0.0006390867638401687,
+          "neutral": 0.999005138874054
+        }
+      },
+      {
+        "criterion": "Compares Fe(III)-EDTA with ferrous sulphate by mentioning better absorption or less precipitation",
+        "verdict": "neutral",
+        "confidence": 0.9993452429771423,
+        "raw_scores": {
+          "contradiction": 0.00014291767729446292,
+          "entailment": 0.0005118311382830143,
+          "neutral": 0.9993452429771423
+        }
+      },
+      {
+        "criterion": "Recommends iron fortified food in Somalia based on high anaemia or iron deficiency in African populations",
+        "verdict": "entailment",
+        "confidence": 0.9520372748374939,
+        "raw_scores": {
+          "contradiction": 0.00011018008081009611,
+          "entailment": 0.9520372748374939,
+          "neutral": 0.04785257950425148
+        }
+      },
+      {
+        "criterion": "Supports the recommendation using passage evidence about iron fortification increasing nutritional value or preventing micronutrient deficiency",
+        "verdict": "neutral",
+        "confidence": 0.9950044751167297,
+        "raw_scores": {
+          "contradiction": 7.52387786633335e-05,
+          "entailment": 0.004920319654047489,
+          "neutral": 0.9950044751167297
+        }
+      },
+      {
+        "criterion": "Mentions caution about safe limits or possible harmful effects of excess EDTA",
+        "verdict": "neutral",
+        "confidence": 0.996467113494873,
+        "raw_scores": {
+          "contradiction": 0.00022922008065506816,
+          "entailment": 0.003303603734821081,
+          "neutral": 0.996467113494873
+        }
+      },
+      {
+        "criterion": "States that EDTA has denticity six in the Fe(III)-EDTA complex",
+        "verdict": "neutral",
+        "confidence": 0.9993756413459778,
+        "raw_scores": {
+          "contradiction": 0.00010056999599328265,
+          "entailment": 0.0005238670855760574,
+          "neutral": 0.9993756413459778
+        }
+      },
+      {
+        "criterion": "Identifies two nitrogen atoms and four oxygen atoms as donor atoms",
+        "verdict": "neutral",
+        "confidence": 0.9991506338119507,
+        "raw_scores": {
+          "contradiction": 5.754363155574538e-05,
+          "entailment": 0.000791858765296638,
+          "neutral": 0.9991506338119507
+        }
+      }
+    ],
+    "evaluation": {
+      "reasoning": "The student's answer addresses all three parts of the question. For part I, they correctly identified EDTA as a chelating agent (full credit) but only implicitly mentioned ring formation and did not explicitly compare Fe(III)-EDTA with ferrous sulphate regarding absorption or precipitation (partial credit). For part II, they recommended iron‑fortified food based on high anaemia prevalence in Africa (full credit) and mentioned increased nutritional value and safe limits, though they did not directly cite passage evidence for the nutritional‑value claim (partial credit). For part III, they stated the denticity as six and identified the two nitrogen and four oxygen donor atoms, but the statements were presented neutrally without explicit confirmation from the passage (partial credit for each). Summing the weighted credits yields approximately 2.5 marks out of 4.",
+      "concepts_in_question": [
+        "Chelation and chelate complex stability",
+        "Comparison of Fe(III)-EDTA with ferrous sulphate",
+        "Iron fortification and anaemia prevalence",
+        "Nutritional value enhancement and safe limits",
+        "Denticity of EDTA and donor atom identification"
+      ],
+      "concepts_mastered": [
+        "EDTA as a chelating agent",
+        "Recommendation of iron‑fortified food for anaemic populations",
+        "Denticity of EDTA (=6) and its donor atoms (2 N, 4 O)",
+        "Awareness of nutritional improvement and safe consumption limits"
+      ],
+      "knowledge_gap": [
+        "Explicit explanation of how EDTA forms a stable chelate ring with Fe(III)",
+        "Direct comparison of Fe(III)-EDTA vs ferrous sulphate in terms of absorption or precipitation",
+        "Specific passage‑based evidence supporting the claim that fortification increases nutritional value",
+        "Clear citation of the passage when discussing safe limits or fortification benefits"
+      ],
+      "misconceptions": [],
+      "feedback_for_improvement": [
+        "Elaborate on the chelate ring formation: mention that EDTA wraps around Fe(III) forming five‑membered chelate rings, which enhances kinetic and thermodynamic stability compared to the more labile ferrous sulphate.",
+        "When comparing complexes, refer to the passage: Fe(III)-EDTA remains soluble at neutral pH, preventing precipitation and ensuring better bioavailability, whereas ferrous sulphate can precipitate or oxidize, reducing its effectiveness.",
+        "Support your recommendation with exact data from the passage (e.g., the percentage increase in iron content or the reduction in deficiency rates reported).",
+        "Include a brief note on why observing safe limits is important—excess EDTA may interfere with absorption of other metals."
+      ],
+      "marks_awarded": 2.5,
+      "total_possible_marks": 4
+    },
+    "token_usage": {
+      "prompt_tokens": 2051,
+      "completion_tokens": 2080,
+      "total_tokens": 4131
+    }
+  },
+  {
+    "sample_id": "SST10_ORG_UNORG_SECTOR_001",
+    "question": "A research student spoke with two people, M and N to learn about their work-related differences. On the basis of the interview, the student concludes that person M was working in an organised sector, while person N was an employee of a workplace functioning in an unorganised way. Analyse the key differences between the two sectors that must have enabled the research student to come to this conclusion.",
+    "student_answer": "I think the working conditions for Person M might be something like this:\n\nWork Timings: They probably have more regular work and the hours are likely fixed, so they don't have to worry about it changing every day.\n\nRules: I believe the place where they work is maybe registered with the government, so they probably have to follow some legal things or acts, though I can't remember the exact names of the laws.\n\nSecurity: There is some kind of job security, I guess. They probably won't just get fired for no reason and might get extra money if they stay late, which is called overtime, I think.\n\nExtra Stuff: They might get things like paid leave or some medical help from the company. It seems like they could also get a pension or some money after they stop working.\n\nEnvironment: The employer is supposed to keep the place clean and maybe give them water and stuff because of the rules.\n\nOn the other hand, Person N seems to be in a different situation:\n\nJob Type: Their jobs are probably low-paid and might be a bit irregular. They might not have work every single day of the month.\n\nGovernment Role: I don't think the government really looks at these jobs much. It's mostly outside their control, so there aren't many protections for the workers there.\n\nNo Perks: They probably don't get things like holidays or extra pay for working more hours. If they get sick, they probably just don't get paid for that day.\n\nLeaving the Job: I guess they can be told to leave at any time if the boss doesn't need them anymore, like during times when there is no work to do.\n\nSelf-Work: Some of these people might be doing small things on their own, like selling things on the street or fixing stuff, where there are no real rules to follow.",
+    "answer_key": "The organised sector includes enterprises registered by the government and follows rules and regulations such as the Factories Act, Minimum Wages Act, Payment of Gratuity Act and Shops and Establishments Act. Workers usually have regular employment, fixed working hours, overtime pay, job security and benefits such as paid leave, medical facilities, provident fund, pension and safe working conditions. The unorganised sector consists of small and scattered units mostly outside government control. Workers often get low and irregular wages, no job security, no paid leave, no overtime, no medical or retirement benefits, and may be asked to leave without notice.",
+    "rubrics": [
+      "States that the organised sector is registered with or regulated by the government",
+      "Mentions that the organised sector follows laws, rules or acts related to employment",
+      "Mentions fixed working hours, regular employment or regular wages in the organised sector",
+      "Mentions job security in the organised sector",
+      "Mentions benefits such as paid leave, medical benefits, provident fund, pension or gratuity in the organised sector",
+      "Mentions safe working conditions, clean workplace, drinking water or other facilities in the organised sector",
+      "States that the unorganised sector is not properly regulated or is outside effective government control",
+      "Mentions low wages, irregular work or irregular income in the unorganised sector",
+      "Mentions lack of job security or workers being removed without notice in the unorganised sector",
+      "Mentions lack of benefits such as paid leave, overtime pay, medical benefits or pension in the unorganised sector"
+    ],
+    "entailment_evidence": [
+      {
+        "criterion": "States that the organised sector is registered with or regulated by the government",
+        "verdict": "entailment",
+        "confidence": 0.6497356295585632,
+        "raw_scores": {
+          "contradiction": 0.00506319385021925,
+          "entailment": 0.6497356295585632,
+          "neutral": 0.34520116448402405
+        }
+      },
+      {
+        "criterion": "Mentions that the organised sector follows laws, rules or acts related to employment",
+        "verdict": "neutral",
+        "confidence": 0.9890994429588318,
+        "raw_scores": {
+          "contradiction": 0.005783418659120798,
+          "entailment": 0.005117218010127544,
+          "neutral": 0.9890994429588318
+        }
+      },
+      {
+        "criterion": "Mentions fixed working hours, regular employment or regular wages in the organised sector",
+        "verdict": "neutral",
+        "confidence": 0.9924216866493225,
+        "raw_scores": {
+          "contradiction": 0.005433620419353247,
+          "entailment": 0.0021446049213409424,
+          "neutral": 0.9924216866493225
+        }
+      },
+      {
+        "criterion": "Mentions job security in the organised sector",
+        "verdict": "neutral",
+        "confidence": 0.9725136160850525,
+        "raw_scores": {
+          "contradiction": 0.015041555278003216,
+          "entailment": 0.012444783933460712,
+          "neutral": 0.9725136160850525
+        }
+      },
+      {
+        "criterion": "Mentions benefits such as paid leave, medical benefits, provident fund, pension or gratuity in the organised sector",
+        "verdict": "neutral",
+        "confidence": 0.9894427061080933,
+        "raw_scores": {
+          "contradiction": 0.00913217943161726,
+          "entailment": 0.001425115275196731,
+          "neutral": 0.9894427061080933
+        }
+      },
+      {
+        "criterion": "Mentions safe working conditions, clean workplace, drinking water or other facilities in the organised sector",
+        "verdict": "neutral",
+        "confidence": 0.8992004990577698,
+        "raw_scores": {
+          "contradiction": 0.09738891571760178,
+          "entailment": 0.003410536330193281,
+          "neutral": 0.8992004990577698
+        }
+      },
+      {
+        "criterion": "States that the unorganised sector is not properly regulated or is outside effective government control",
+        "verdict": "neutral",
+        "confidence": 0.9775742888450623,
+        "raw_scores": {
+          "contradiction": 0.001982519868761301,
+          "entailment": 0.020443150773644447,
+          "neutral": 0.9775742888450623
+        }
+      },
+      {
+        "criterion": "Mentions low wages, irregular work or irregular income in the unorganised sector",
+        "verdict": "neutral",
+        "confidence": 0.9811184406280518,
+        "raw_scores": {
+          "contradiction": 0.0026478704530745745,
+          "entailment": 0.016233690083026886,
+          "neutral": 0.9811184406280518
+        }
+      },
+      {
+        "criterion": "Mentions lack of job security or workers being removed without notice in the unorganised sector",
+        "verdict": "neutral",
+        "confidence": 0.9414020776748657,
+        "raw_scores": {
+          "contradiction": 0.01279537659138441,
+          "entailment": 0.04580254480242729,
+          "neutral": 0.9414020776748657
+        }
+      },
+      {
+        "criterion": "Mentions lack of benefits such as paid leave, overtime pay, medical benefits or pension in the unorganised sector",
+        "verdict": "contradiction",
+        "confidence": 0.9017690420150757,
+        "raw_scores": {
+          "contradiction": 0.9017690420150757,
+          "entailment": 0.0272898580878973,
+          "neutral": 0.07094115763902664
+        }
+      }
+    ],
+    "evaluation": {
+      "reasoning": "The student's answer addresses all the rubric criteria: they note that the organised sector is likely registered with the government, follows laws, has fixed timings, job security, benefits (paid leave, medical, pension), and safe working conditions. For the unorganised sector, they mention lack of government regulation, low and irregular wages, lack of job security, and absence of benefits such as paid leave or overtime pay. Although the answer uses tentative language ('probably', 'I guess'), it demonstrates relevant factual understanding and conceptual grasp of the differences between the two sectors. Hence, partial to full credit can be awarded for each rubric, leading to the maximum score.",
+      "concepts_in_question": [
+        "Organised sector characteristics",
+        "Unorganised sector characteristics",
+        "Government regulation and registration",
+        "Working hours and wage regularity",
+        "Job security",
+        "Employee benefits (paid leave, medical, provident fund, pension, gratuity)",
+        "Working conditions and workplace facilities",
+        "Low wages and irregular income",
+        "Lack of job security",
+        "Lack of social security benefits"
+      ],
+      "concepts_mastered": [
+        "Registration/regulation of the organised sector by the government",
+        "Fixed working hours and regular employment in the organised sector",
+        "Presence of job security in the organised sector",
+        "Availability of benefits such as paid leave, medical help, pension in the organised sector",
+        "Provision of safe workplace, clean environment, drinking water in the organised sector",
+        "Limited government control over the unorganised sector",
+        "Low and irregular wages/income in the unorganised sector",
+        "Lack of job security in the unorganised sector",
+        "Absence of benefits like paid leave, overtime, medical, pension in the unorganised sector"
+      ],
+      "knowledge_gap": [
+        "Specific names of labour laws/acts governing the organised sector (e.g., Factories Act, Minimum Wages Act, Shops and Establishments Act)",
+        "Exact definitions of provident fund, ESI, gratuity as per legislation",
+        "Concrete examples of unorganised sector work (street vending, casual labour, small-scale manufacturing)",
+        "Nuances where some unorganised workers may have limited protections"
+      ],
+      "misconceptions": [],
+      "feedback_for_improvement": [
+        "Use precise terminology: mention specific Acts (Factories Act, Minimum Wages Act) when describing government regulation.",
+        "Provide concrete examples for each sector (e.g., a factory worker for organised sector; a street vendor for unorganised sector).",
+        "Replace tentative phrases with clearer statements to demonstrate confidence in your knowledge.",
+        "Include a brief note on social security schemes (EPF, ESI) that apply to organised sector workers."
+      ],
+      "marks_awarded": 5,
+      "total_possible_marks": 5
+    },
+    "token_usage": {
+      "prompt_tokens": 2590,
+      "completion_tokens": 1945,
+      "total_tokens": 4535
+    }
+  }
+]
