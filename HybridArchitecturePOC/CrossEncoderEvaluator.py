@@ -12,18 +12,27 @@ class RubricEvaluator:
         except Exception as e:
             print(f"Error loading model: {e}")
             raise
-        self.label_map = {0: 'contradiction', 1: 'entailment', 2: 'neutral'}
+        self.label_map = self.model.model.config.id2label
 
-    def _parse_scores(self, scores: np.ndarray) -> Dict[str, Any]:
+    def _normalize_label(self, label):
+        return label.lower().replace("label_", "").strip()
+
+    def _parse_scores(self, scores):
+        scores = np.asarray(scores)
+        id2label = self.model.model.config.id2label
+        labels = {
+            int(i): self._normalize_label(label)
+            for i, label in id2label.items()
+        }
         max_idx = int(np.argmax(scores))
+        score_map = {
+            labels[i]: float(scores[i])
+            for i in range(len(scores))
+        }
         return {
-            "label": self.label_map[max_idx],
+            "label": labels[max_idx],
             "confidence": float(scores[max_idx]),
-            "raw_scores": {
-                "contradiction": float(scores[0]),
-                "entailment": float(scores[1]),
-                "neutral": float(scores[2])
-            }
+            "raw_scores": score_map
         }
     
     def _make_hypothesis(self, criterion: str) -> str:

@@ -1,0 +1,402 @@
+[
+  [
+    {
+      "criterion": "States that archaeological evidence does not give a clear or immediate answer about Harappan central authority",
+      "verdict": "entailment",
+      "confidence": 0.9987680315971375,
+      "raw_scores": {
+        "entailment": 0.9987680315971375,
+        "neutral": 0.001068483223207295,
+        "contradiction": 0.0001634949294384569
+      }
+    },
+    {
+      "criterion": "Mentions the large building at Mohenjodaro and explains that it was not associated with spectacular royal finds",
+      "verdict": "neutral",
+      "confidence": 0.9762755036354065,
+      "raw_scores": {
+        "entailment": 0.020061494782567024,
+        "neutral": 0.9762755036354065,
+        "contradiction": 0.0036630567628890276
+      }
+    },
+    {
+      "criterion": "Mentions the stone statue from Mohenjodaro labelled as the priest-king",
+      "verdict": "entailment",
+      "confidence": 0.9952124357223511,
+      "raw_scores": {
+        "entailment": 0.9952124357223511,
+        "neutral": 0.0031884810887277126,
+        "contradiction": 0.0015989989042282104
+      }
+    },
+    {
+      "criterion": "Explains that the priest-king interpretation is uncertain or not conclusive evidence of monarchy",
+      "verdict": "neutral",
+      "confidence": 0.9811690449714661,
+      "raw_scores": {
+        "entailment": 0.017545459792017937,
+        "neutral": 0.9811690449714661,
+        "contradiction": 0.0012854153756052256
+      }
+    },
+    {
+      "criterion": "Mentions that uniformity in artefacts, planning, bricks, weights or seals suggests some form of organisation",
+      "verdict": "neutral",
+      "confidence": 0.987773597240448,
+      "raw_scores": {
+        "entailment": 0.010996178723871708,
+        "neutral": 0.987773597240448,
+        "contradiction": 0.0012302446411922574
+      }
+    },
+    {
+      "criterion": "Mentions that absence of clear palaces, royal tombs or obvious rulers makes the nature of power uncertain",
+      "verdict": "neutral",
+      "confidence": 0.6766006350517273,
+      "raw_scores": {
+        "entailment": 0.32146984338760376,
+        "neutral": 0.6766006350517273,
+        "contradiction": 0.0019295053789392114
+      }
+    }
+  ],
+  [
+    {
+      "criterion": "Mentions that Abdur Razzaq described seven lines of forts around Vijayanagara",
+      "verdict": "neutral",
+      "confidence": 0.9958382844924927,
+      "raw_scores": {
+        "entailment": 0.0025792105589061975,
+        "neutral": 0.9958382844924927,
+        "contradiction": 0.0015825661830604076
+      }
+    },
+    {
+      "criterion": "Explains that the fortifications enclosed the city as well as agricultural fields or cultivated areas",
+      "verdict": "neutral",
+      "confidence": 0.9978854060173035,
+      "raw_scores": {
+        "entailment": 0.0019111857982352376,
+        "neutral": 0.9978854060173035,
+        "contradiction": 0.00020342340576462448
+      }
+    },
+    {
+      "criterion": "Mentions that the fortifications enclosed forests, water resources or other resources needed during sieges",
+      "verdict": "neutral",
+      "confidence": 0.9979523420333862,
+      "raw_scores": {
+        "entailment": 0.0018442875007167459,
+        "neutral": 0.9979523420333862,
+        "contradiction": 0.0002033874043263495
+      }
+    },
+    {
+      "criterion": "Mentions that the outer walls linked hills or used the natural landscape and boulders for defence",
+      "verdict": "neutral",
+      "confidence": 0.9951474070549011,
+      "raw_scores": {
+        "entailment": 0.004171585664153099,
+        "neutral": 0.9951474070549011,
+        "contradiction": 0.0006809696787968278
+      }
+    },
+    {
+      "criterion": "Mentions gateways, guarded entrances or roads passing through fort gates",
+      "verdict": "neutral",
+      "confidence": 0.9074394702911377,
+      "raw_scores": {
+        "entailment": 0.07026966661214828,
+        "neutral": 0.9074394702911377,
+        "contradiction": 0.022290831431746483
+      }
+    },
+    {
+      "criterion": "Explains that the fortifications show military preparedness, security and control over the capital",
+      "verdict": "neutral",
+      "confidence": 0.9965032339096069,
+      "raw_scores": {
+        "entailment": 0.0032725813798606396,
+        "neutral": 0.9965032339096069,
+        "contradiction": 0.00022417835134547204
+      }
+    },
+    {
+      "criterion": "Provides examples specific to Vijayanagara fortifications rather than only discussing rulers or dynasties",
+      "verdict": "contradiction",
+      "confidence": 0.8663651347160339,
+      "raw_scores": {
+        "entailment": 0.009470066986978054,
+        "neutral": 0.12416484951972961,
+        "contradiction": 0.8663651347160339
+      }
+    }
+  ],
+  [
+    {
+      "criterion": "Defines circuit training as a sequence of exercises performed at different stations",
+      "verdict": "entailment",
+      "confidence": 0.998908519744873,
+      "raw_scores": {
+        "entailment": 0.998908519744873,
+        "neutral": 0.0007743666647002101,
+        "contradiction": 0.00031709842733107507
+      }
+    },
+    {
+      "criterion": "Mentions that exercises are performed one after another in a circuit with fixed work and rest intervals or repetitions",
+      "verdict": "entailment",
+      "confidence": 0.9634407162666321,
+      "raw_scores": {
+        "entailment": 0.9634407162666321,
+        "neutral": 0.03482995182275772,
+        "contradiction": 0.0017292832490056753
+      }
+    },
+    {
+      "criterion": "Explains that circuit training develops multiple fitness components such as strength, endurance, flexibility, agility or coordination",
+      "verdict": "entailment",
+      "confidence": 0.9989124536514282,
+      "raw_scores": {
+        "entailment": 0.9989124536514282,
+        "neutral": 0.0008930650656111538,
+        "contradiction": 0.00019443733617663383
+      }
+    },
+    {
+      "criterion": "Describes a six-station plan suitable for new trainees",
+      "verdict": "entailment",
+      "confidence": 0.9991523027420044,
+      "raw_scores": {
+        "entailment": 0.9991523027420044,
+        "neutral": 0.000657697906717658,
+        "contradiction": 0.0001899389608297497
+      }
+    },
+    {
+      "criterion": "Includes specific examples of exercises for six stations",
+      "verdict": "neutral",
+      "confidence": 0.7558261156082153,
+      "raw_scores": {
+        "entailment": 0.23470795154571533,
+        "neutral": 0.7558261156082153,
+        "contradiction": 0.009465914219617844
+      }
+    },
+    {
+      "criterion": "Mentions appropriate work-rest ratio, duration, repetitions or number of rounds",
+      "verdict": "neutral",
+      "confidence": 0.9091275334358215,
+      "raw_scores": {
+        "entailment": 0.08517371863126755,
+        "neutral": 0.9091275334358215,
+        "contradiction": 0.005698731634765863
+      }
+    },
+    {
+      "criterion": "Mentions warm-up, cool-down, safety or gradual progression for new trainees",
+      "verdict": "entailment",
+      "confidence": 0.946616530418396,
+      "raw_scores": {
+        "entailment": 0.946616530418396,
+        "neutral": 0.04478108510375023,
+        "contradiction": 0.00860241986811161
+      }
+    },
+    {
+      "criterion": "Ensures the six stations cover different body parts or fitness components",
+      "verdict": "entailment",
+      "confidence": 0.991928219795227,
+      "raw_scores": {
+        "entailment": 0.991928219795227,
+        "neutral": 0.007343303877860308,
+        "contradiction": 0.0007285299943760037
+      }
+    }
+  ],
+  [
+    {
+      "criterion": "States that EDTA is a chelating agent",
+      "verdict": "entailment",
+      "confidence": 0.99970942735672,
+      "raw_scores": {
+        "entailment": 0.99970942735672,
+        "neutral": 0.0001608581078471616,
+        "contradiction": 0.00012961009633727372
+      }
+    },
+    {
+      "criterion": "Explains that EDTA forms a stable ring or chelate complex with Fe(III)",
+      "verdict": "entailment",
+      "confidence": 0.9968462586402893,
+      "raw_scores": {
+        "entailment": 0.9968462586402893,
+        "neutral": 0.0029057504143565893,
+        "contradiction": 0.000248017895501107
+      }
+    },
+    {
+      "criterion": "Compares Fe(III)-EDTA with ferrous sulphate by mentioning better absorption or less precipitation",
+      "verdict": "neutral",
+      "confidence": 0.9813434481620789,
+      "raw_scores": {
+        "entailment": 0.009678364731371403,
+        "neutral": 0.9813434481620789,
+        "contradiction": 0.00897819735109806
+      }
+    },
+    {
+      "criterion": "Recommends iron fortified food in Somalia based on high anaemia or iron deficiency in African populations",
+      "verdict": "entailment",
+      "confidence": 0.9980534315109253,
+      "raw_scores": {
+        "entailment": 0.9980534315109253,
+        "neutral": 0.0017121379496529698,
+        "contradiction": 0.00023444471298716962
+      }
+    },
+    {
+      "criterion": "Supports the recommendation using passage evidence about iron fortification increasing nutritional value or preventing micronutrient deficiency",
+      "verdict": "entailment",
+      "confidence": 0.9905470013618469,
+      "raw_scores": {
+        "entailment": 0.9905470013618469,
+        "neutral": 0.006972925271838903,
+        "contradiction": 0.0024800661485642195
+      }
+    },
+    {
+      "criterion": "Mentions caution about safe limits or possible harmful effects of excess EDTA",
+      "verdict": "entailment",
+      "confidence": 0.7281011343002319,
+      "raw_scores": {
+        "entailment": 0.7281011343002319,
+        "neutral": 0.26859018206596375,
+        "contradiction": 0.0033086552284657955
+      }
+    },
+    {
+      "criterion": "States that EDTA has denticity six in the Fe(III)-EDTA complex",
+      "verdict": "neutral",
+      "confidence": 0.9928737878799438,
+      "raw_scores": {
+        "entailment": 0.00656864931806922,
+        "neutral": 0.9928737878799438,
+        "contradiction": 0.0005575349205173552
+      }
+    },
+    {
+      "criterion": "Identifies two nitrogen atoms and four oxygen atoms as donor atoms",
+      "verdict": "entailment",
+      "confidence": 0.9963520765304565,
+      "raw_scores": {
+        "entailment": 0.9963520765304565,
+        "neutral": 0.0024518088903278112,
+        "contradiction": 0.001196029013954103
+      }
+    }
+  ],
+  [
+    {
+      "criterion": "States that the organised sector is registered with or regulated by the government",
+      "verdict": "entailment",
+      "confidence": 0.580919623374939,
+      "raw_scores": {
+        "entailment": 0.580919623374939,
+        "neutral": 0.41319504380226135,
+        "contradiction": 0.005885357037186623
+      }
+    },
+    {
+      "criterion": "Mentions that the organised sector follows laws, rules or acts related to employment",
+      "verdict": "entailment",
+      "confidence": 0.9950181245803833,
+      "raw_scores": {
+        "entailment": 0.9950181245803833,
+        "neutral": 0.004574990831315517,
+        "contradiction": 0.0004068097041454166
+      }
+    },
+    {
+      "criterion": "Mentions fixed working hours, regular employment or regular wages in the organised sector",
+      "verdict": "entailment",
+      "confidence": 0.9870657920837402,
+      "raw_scores": {
+        "entailment": 0.9870657920837402,
+        "neutral": 0.011931467801332474,
+        "contradiction": 0.0010027794633060694
+      }
+    },
+    {
+      "criterion": "Mentions job security in the organised sector",
+      "verdict": "entailment",
+      "confidence": 0.876033365726471,
+      "raw_scores": {
+        "entailment": 0.876033365726471,
+        "neutral": 0.1078200563788414,
+        "contradiction": 0.016146497800946236
+      }
+    },
+    {
+      "criterion": "Mentions benefits such as paid leave, medical benefits, provident fund, pension or gratuity in the organised sector",
+      "verdict": "entailment",
+      "confidence": 0.9892668724060059,
+      "raw_scores": {
+        "entailment": 0.9892668724060059,
+        "neutral": 0.010456979274749756,
+        "contradiction": 0.00027619878528639674
+      }
+    },
+    {
+      "criterion": "Mentions safe working conditions, clean workplace, drinking water or other facilities in the organised sector",
+      "verdict": "entailment",
+      "confidence": 0.9862637519836426,
+      "raw_scores": {
+        "entailment": 0.9862637519836426,
+        "neutral": 0.013359070755541325,
+        "contradiction": 0.0003771760384552181
+      }
+    },
+    {
+      "criterion": "States that the unorganised sector is not properly regulated or is outside effective government control",
+      "verdict": "entailment",
+      "confidence": 0.9942634701728821,
+      "raw_scores": {
+        "entailment": 0.9942634701728821,
+        "neutral": 0.00551215372979641,
+        "contradiction": 0.00022435022401623428
+      }
+    },
+    {
+      "criterion": "Mentions low wages, irregular work or irregular income in the unorganised sector",
+      "verdict": "entailment",
+      "confidence": 0.9857634902000427,
+      "raw_scores": {
+        "entailment": 0.9857634902000427,
+        "neutral": 0.013620358891785145,
+        "contradiction": 0.000616157369222492
+      }
+    },
+    {
+      "criterion": "Mentions lack of job security or workers being removed without notice in the unorganised sector",
+      "verdict": "entailment",
+      "confidence": 0.9985426664352417,
+      "raw_scores": {
+        "entailment": 0.9985426664352417,
+        "neutral": 0.0012377109378576279,
+        "contradiction": 0.00021966753411106765
+      }
+    },
+    {
+      "criterion": "Mentions lack of benefits such as paid leave, overtime pay, medical benefits or pension in the unorganised sector",
+      "verdict": "entailment",
+      "confidence": 0.9984534978866577,
+      "raw_scores": {
+        "entailment": 0.9984534978866577,
+        "neutral": 0.0013138906797394156,
+        "contradiction": 0.00023253378458321095
+      }
+    }
+  ]
+]
