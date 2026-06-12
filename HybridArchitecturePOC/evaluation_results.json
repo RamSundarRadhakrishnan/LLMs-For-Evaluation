@@ -75,40 +75,38 @@
       }
     ],
     "evaluation": {
-      "reasoning": "The student correctly states that archaeological evidence does not give a clear or immediate answer about Harappan central authority (full credit). They also mention the large building at Mohenjodaro lacking spectacular finds and the stone statue labelled as the 'priest king', showing awareness of two key archaeological observations (partial credit for the building explanation, full credit for the statue). However, they do not discuss the uncertain nature of the priest-king interpretation, the uniformity of artefacts as evidence of organisation, or the absence of clear palaces, royal tombs, or obvious rulers that leaves the nature of power ambiguous. Consequently, criteria related to those points receive little or no credit.",
+      "reasoning": "The student correctly states that archaeological evidence does not give a clear answer about Harappan central authority (full credit for rubric 1). They mention the large building at Mohenjodaro lacking spectacular royal finds, which aligns with rubric 2 but the NLI marks it as neutral, indicating the point is present but not emphatically expressed; thus partial credit is awarded. The student also mentions the stone statue labelled as the 'priest‑king', satisfying rubric 3 with entailment. However, they do not elaborate on the uncertainty of the priest‑king interpretation, the uniformity of artefacts, or the absence of clear palaces/tombs, which correspond to rubrics 4, 5, and 6 and receive only neutral or no support. Considering the generous partial‑credit policy for relevant facts and concepts, the answer earns credit for three of the six rubrics (two full, two partial), translating to 1.5 out of 3 possible marks.",
       "concepts_in_question": [
         "Harappan civilization",
         "Archaeological evidence and central authority",
-        "Large building at Mohenjodaro",
-        "Priest-king statue",
-        "Interpretational uncertainty of priest-king",
-        "Uniformity in artefacts, planning, bricks, weights, seals",
-        "Absence of clear palaces, royal tombs, obvious rulers"
+        "Mohenjodaro large building",
+        "Priest‑king statue",
+        "Uniformity of artefacts, planning, bricks, weights, seals",
+        "Absence of palaces, royal tombs, obvious rulers"
       ],
       "concepts_mastered": [
-        "Lack of immediate archaeological answer regarding Harappan central authority",
-        "Presence of a large building at Mohenjodaro without spectacular royal finds",
-        "Identification of the stone statue labelled as the 'priest king'"
+        "Archaeological evidence does not give a clear immediate answer about Harappan central authority",
+        "Large building at Mohenjodaro lacks spectacular royal finds",
+        "Stone statue from Mohenjodaro labelled as the priest‑king"
       ],
       "knowledge_gap": [
-        "Uncertainty or non-conclusive nature of the priest-king as evidence of monarchy",
-        "How uniformity in artefacts, planning, bricks, weights, or seals suggests some form of organisation",
-        "Significance of the absence of clear palaces, royal tombs, or obvious rulers in determining the nature of power"
+        "Uncertainty or non‑conclusive nature of the priest‑king interpretation as evidence of monarchy",
+        "Evidence of uniformity in artefacts, planning, bricks, weights, seals suggesting some organisation",
+        "Absence of clear palaces, royal tombs or obvious rulers making the nature of power uncertain"
       ],
       "misconceptions": [],
       "feedback_for_improvement": [
-        "When discussing the priest-king statue, note that scholars debate whether it represents a ruler or a religious figure; avoid presenting it as definitive proof of monarchy.",
-        "Include observations about the remarkable uniformity in brick sizes, weights, seals, and town planning across Harappa, which implies some level of central coordination even if rulers are not visibly evident.",
-        "Mention that the lack of obvious royal architecture (palaces, elaborate tombs) makes it difficult to reconstruct the exact nature of Harappan authority, and that this absence is itself an important piece of evidence.",
-        "Practice linking specific archaeological findings to broader interpretations about social and political organisation, and explicitly state where interpretations remain uncertain."
+        "When discussing the priest‑king statue, explicitly note that its interpretation as a ruler is speculative and not conclusive proof of monarchy.",
+        "Include observations about the uniformity of Harappan bricks, weights, seals and town planning, which point to some form of centralised organisation even if royal symbols are absent.",
+        "Mention the lack of obvious royal structures such as palaces or elaborate tombs, which contributes to the uncertainty about the nature of power in Harappan society."
       ],
-      "marks_awarded": 1.3,
+      "marks_awarded": 1.5,
       "total_possible_marks": 3
     },
     "token_usage": {
       "prompt_tokens": 1625,
-      "completion_tokens": 1257,
-      "total_tokens": 2882
+      "completion_tokens": 1359,
+      "total_tokens": 2984
     }
   },
   {
@@ -198,38 +196,38 @@
       }
     ],
     "evaluation": {
-      "reasoning": "The student's answer discusses the Sangama, Saluva, and Tuluva dynasties, Krishnadeva Raya's achievements, and foreign travelers to Vijayanagara, but it does not mention Abdur Razzaq, his role as a Persian ambassador, his observation of seven lines of forts, or any details about Vijayanagara's fortifications. Consequently, none of the rubric criteria are satisfied; the entailment scores show neutral or contradiction for all points, indicating lack of relevant content. Since the answer does not address the question, no credit can be awarded.",
+      "reasoning": "The student's answer discusses the Sangama, Saluva, and Tuluvas dynasties, Krishnadeva Raya's conquests, achievements, and foreign travellers, but it does not mention Abdur Razzaq, his observation of seven lines of forts, or any details about the Vijayanagara fortifications. All entailment scores for the rubric criteria are neutral (indicating no explicit support) except the last criterion, which is marked as contradiction because the answer focuses on rulers/dynasties rather than providing specific examples of fortifications. Since the answer fails to address the core of the question and provides no relevant information about the fortifications described by Abdur Razzaq, it warrants zero marks.",
       "concepts_in_question": [
-        "Abdur Razzaq – Persian ambassador to Calicut (15th century)",
-        "Vijayanagara fortifications – seven lines of forts described by Abdur Razzaq",
-        "Military architecture and defensive features of Vijayanagara (walls, gateways, use of landscape, agricultural enclosure, water/resources)",
-        "Substantiation with examples from historical sources"
+        "Abdur Razzaq's account of Vijayanagara",
+        "Seven lines of forts around Vijayanagara",
+        "Fortification features (enclosing city, agricultural fields, water resources, natural landscape, gateways)",
+        "Military preparedness and security shown by fortifications",
+        "Specific examples of Vijayanagara fortifications"
       ],
       "concepts_mastered": [],
       "knowledge_gap": [
-        "Abdur Razzaq's account and mention of seven lines of forts",
-        "Details of Vijayanagara's fortification layout (city, agricultural fields, forests, water resources)",
-        "Use of natural terrain, boulders, and hill linkages in the defenses",
-        "Presence of gateways, guarded entrances, and roads",
-        "Interpretation of fortifications as evidence of military preparedness and control"
+        "Abdur Razzaq's description of seven lines of forts",
+        "How fortifications enclosed city and agricultural areas",
+        "Inclusion of forests, water resources, or other siege resources within fortifications",
+        "Use of hills, boulders, and natural landscape in outer walls",
+        "Presence of gateways, guarded entrances, and roads through fort gates",
+        "Interpretation of fortifications as evidence of military preparedness and control",
+        "Providing concrete examples of Vijayanagara fortifications rather than dynastic history"
       ],
-      "misconceptions": [
-        "The student conflated the question about Abdur Razzaq's observation with a general description of Vijayanagara's dynastic history and achievements."
-      ],
+      "misconceptions": [],
       "feedback_for_improvement": [
-        "Begin your answer by directly referencing Abdur Razzaq and his role as a fifteenth‑century Persian ambassador to Calicut.",
-        "State explicitly that he observed seven concentric lines of forts around Vijayanagara.",
-        "Provide concrete examples from his account or corroborating sources: e.g., the outer walls enclosing the urban core and surrounding agricultural belts, the use of rocky hills and boulders in the fortification, the presence of fortified gateways guarding major roads, and how the design secured water tanks and granaries for siege situations.",
-        "Explain how these features reflect the Vijayanagara state's military preparedness, security, and control over its capital.",
-        "Avoid diverging into unrelated dynastic details unless they are explicitly linked to the fortifications described by Abdur Razzaq."
+        "Read the question carefully and identify the key focus: Abdur Razzaq's observation of seven lines of forts.",
+        "Study the section on Vijayanagara's fortifications in your textbook, noting details such as the multiple walls, enclosed agricultural zones, water reservoirs, use of rocky terrain, and major gateways.",
+        "When answering, start with a direct reference to Abdur Razzaq's account and then elaborate on the fortification features he observed, using specific examples from the Vijayanagara site.",
+        "Avoid diverting the answer to dynastic rulers unless they are directly linked to the construction or maintenance of the fortifications."
       ],
       "marks_awarded": 0,
       "total_possible_marks": 8
     },
     "token_usage": {
       "prompt_tokens": 2050,
-      "completion_tokens": 1008,
-      "total_tokens": 3058
+      "completion_tokens": 901,
+      "total_tokens": 2951
     }
   },
   {
@@ -330,41 +328,42 @@
       }
     ],
     "evaluation": {
-      "reasoning": "The student's answer strongly aligns with the rubric criteria: they define circuit training as a sequence of exercises at different stations, note the sequential nature with work/rest implications, explain development of multiple fitness components, describe a six‑station plan for new trainees, mention warm‑up/cool‑down/safety aspects, and ensure stations cover different body parts/fitness components. These six criteria receive clear entailment support. The two remaining criteria—providing specific exercise examples for each station and detailing work‑rest ratios, repetitions, or rounds—are expressed in abstract, technical language without concrete examples or numerical prescriptions, resulting in neutral entailment scores. Awarding full credit for the six fully met criteria and half credit for the two partially met criteria yields a score of 7 out of 8.",
+      "reasoning": "The student's answer demonstrates a strong understanding of circuit training's definition, its sequential nature, development of multiple fitness components, and a detailed six‑station plan tailored for new trainees, including warm‑up/cool‑down safety considerations. Entailment scores confirm these points are well covered. However, the answer lacks concrete exercise examples for each station and does not specify work‑rest ratios, duration, repetitions, or number of rounds, which are required for full credit. Consequently, partial credit is awarded for those criteria.",
       "concepts_in_question": [
         "Definition of circuit training",
-        "Sequential execution with work/rest intervals",
+        "Sequential execution with work‑rest intervals",
         "Development of multiple fitness components (strength, endurance, flexibility, agility, coordination)",
         "Designing a six‑station circuit for beginners",
-        "Selection of specific exercises for each station",
-        "Appropriate work‑rest ratio, duration, repetitions, or number of rounds",
-        "Warm‑up, cool‑down, safety, and gradual progression",
+        "Providing specific exercise examples for each station",
+        "Specifying work‑rest ratio, duration, repetitions or rounds",
+        "Including warm‑up, cool‑down, safety, and gradual progression",
         "Ensuring stations cover different body parts or fitness components"
       ],
       "concepts_mastered": [
-        "Definition of circuit training as a station‑based sequence",
-        "Understanding that exercises are performed one after another in a circuit",
-        "Recognition that circuit training develops multiple fitness components",
-        "Ability to outline a six‑station plan suitable for new trainees",
-        "Inclusion of warm‑up, cool‑down, safety, and gradual progression considerations",
-        "Ensuring the six stations target different body parts or fitness components"
+        "Circuit training as a sequence of exercises at different stations",
+        "Exercises performed one after another in a circuit",
+        "Development of multiple fitness components",
+        "Description of a six‑station plan suitable for new trainees",
+        "Inclusion of warm‑up, cool‑down, safety, and gradual progression",
+        "Coverage of different body parts/fitness components across the six stations"
       ],
       "knowledge_gap": [
-        "Providing concrete examples of exercises for each of the six stations",
-        "Specifying work‑rest ratios, duration, repetitions, or number of rounds"
+        "Specific exercise examples for each of the six stations",
+        "Details of work‑rest ratio, duration, repetitions, or number of rounds"
       ],
       "misconceptions": [],
       "feedback_for_improvement": [
-        "Add specific exercise examples for each station (e.g., Station 1: push‑ups or medicine‑ball chest passes; Station 2: plank or bird‑dog; Station 3: body‑weight squats or lunges; Station 4: jumping jacks or high‑knees; Station 5: ladder agility drills or cone shuffles; Station 6: light jogging or dynamic stretching).",
-        "Include clear work‑rest prescriptions (e.g., 30 seconds work / 15 seconds rest per station, 2‑3 rounds total, with a 1‑minute rest between rounds) and mention how these can be progressed over time for novice trainees."
+        "Add concrete exercises (e.g., push‑ups, squats, planks, jumping jacks, lunges, medicine‑ball throws) to each station to illustrate the plan.",
+        "Clearly state the work‑rest intervals (e.g., 40 seconds work / 20 seconds rest) and the number of rounds or total duration intended for the trainees.",
+        "Mention how the intensity or volume will be progressively increased over weeks to avoid overtraining."
       ],
-      "marks_awarded": 7,
+      "marks_awarded": 6.5,
       "total_possible_marks": 8
     },
     "token_usage": {
       "prompt_tokens": 2319,
-      "completion_tokens": 1200,
-      "total_tokens": 3519
+      "completion_tokens": 1196,
+      "total_tokens": 3515
     }
   },
   {
@@ -465,32 +464,40 @@
       }
     ],
     "evaluation": {
-      "reasoning": "The student correctly identifies EDTA as a chelating agent and explains its ring/chelate complex formation with Fe(III), satisfying rubrics 1 and 2. They recommend iron‑fortified food for Somalia based on high anaemia rates and support this with passage evidence about increased nutritional value, fulfilling rubrics 4 and 5. They also mention safe‑limit consumption, which meets rubric 6 (entailment). For part III, they state denticity = 6 and list two nitrogen and four oxygen atoms as donors, satisfying rubric 8 fully; rubric 7 (explicit statement of denticity six in the Fe(III)-EDTA complex) is neutral because the wording does not exactly match the criterion, but the concept is correct. The only missing element is a direct comparison of Fe(III)-EDTA with ferrous sulphate regarding better absorption or less precipitation (rubric 3), which is not addressed. Hence, most rubrics are met, yielding a high score.",
+      "reasoning": "The student correctly identified EDTA as a chelating agent and explained that it forms a stable ring/chelate complex with Fe(III), satisfying rubrics 1 and 2. They did not explicitly compare Fe(III)-EDTA with ferrous sulphate regarding better absorption or reduced precipitation, so rubric 3 receives no credit. For the recommendation part, the student cited high anaemia prevalence in Africa, linked it to Somalia, and used passage evidence about increased nutritional value and micronutrient deficiency prevention, fulfilling rubrics 4 and 5. They also mentioned consuming within safe limits, which addresses rubric 6 (partial support). Regarding denticity, the student stated 'Denticity = 6' and identified the donor atoms (2 N, 4 O); while the NLI score for the denticity statement was neutral, the explicit mention warrants partial credit, and the donor atom identification is fully correct (rubric 8). Summing the partial credits yields 3.25 out of 4 possible marks.",
       "concepts_in_question": [
-        "Chelation and chelate effect",
-        "Stability of metal‑ligand complexes",
-        "Denticity and donor atoms of EDTA",
-        "Iron fortification in food",
-        "Anaemia and micronutrient deficiency",
-        "Safe limits of fortificants"
+        "Chelation and stability of metal‑ligand complexes",
+        "Fe(III)-EDTA vs ferrous sulphate in fortification",
+        "Iron fortification and anaemia prevention",
+        "Safe limits of fortificants",
+        "Denticity of EDTA and donor atoms"
+      ],
+      "concepts_mastered": [
+        "EDTA as a chelating agent",
+        "Formation of stable ring/chelate complex with Fe(III)",
+        "Recommending iron‑fortified food based on high anaemia burden",
+        "Using passage evidence to support nutritional benefit",
+        "Advising consumption within safe limits",
+        "Identifying donor atoms (2 N, 4 O) in EDTA"
       ],
       "knowledge_gap": [
-        "Explicit comparison of Fe(III)-EDTA with ferrous sulphate (absorption/precipitation)",
-        "Explicit statement that EDTA has denticity six in the Fe(III)-EDTA complex"
+        "Explicit comparison of Fe(III)-EDTA with ferrous sulphate (e.g., better absorption, less precipitation)",
+        "Clear articulation of why EDTA confers greater stability beyond chelation (e.g., prevention of hydrolysis/polymerization)",
+        "Explicit definition of denticity and its relation to coordination number"
       ],
       "misconceptions": [],
       "feedback_for_improvement": [
-        "When explaining stability, mention that the chelate effect prevents hydrolysis and precipitation of Fe(III), making Fe(III)-EDTA more stable than ferrous sulphate, which can oxidise and precipitate.",
-        "In future answers, explicitly state the denticity of EDTA in the Fe(III)-EDTA complex (six) and link it to the coordination geometry.",
-        "Include a brief comparison with ferrous sulphate to show why EDTA fortification is preferred (e.g., higher bioavailability, less interaction with food components)."
+        "When comparing complexes, mention specific advantages such as increased solubility, reduced precipitation, and improved bioavailability of Fe(III)-EDTA over ferrous sulphate.",
+        "State the denticity clearly (EDTA is a hexadentate ligand) and relate it to the octahedral geometry of the Fe(III) center.",
+        "Include a brief note on how chelation prevents iron from interacting with dietary inhibitors, thereby enhancing absorption."
       ],
-      "marks_awarded": 3.5,
+      "marks_awarded": 3.25,
       "total_possible_marks": 4
     },
     "token_usage": {
       "prompt_tokens": 2054,
-      "completion_tokens": 1565,
-      "total_tokens": 3619
+      "completion_tokens": 1374,
+      "total_tokens": 3428
     }
   },
   {
@@ -613,48 +620,48 @@
       }
     ],
     "evaluation": {
-      "reasoning": "The student's answer addresses all ten rubric criteria with clear entailment evidence. They correctly note that the organized sector is government‑registered, follows employment laws, has fixed hours, job security, benefits (paid leave, medical, pension), and safe working conditions. For the unorganized sector, they highlight lack of regulation, low/irregular wages, absence of job security, and missing benefits. Although the answer does not name specific Acts (e.g., Factories Act, Minimum Wages Act), the conceptual understanding is strong and aligns with the CBSE 10th‑grade Social Studies expectations for differentiating organized vs. unorganized sectors. Therefore, full credit is warranted.",
+      "reasoning": "The entailment scores indicate that the student's answer satisfies each rubric criterion with 'entailment' verdicts. Confidence levels are high for most criteria (above 0.98) and even the lowest confidence criterion (registered with government) is still rated as entailment (0.58). The answer covers organized sector features such as registration, adherence to laws, fixed hours, job security, benefits (paid leave, medical help, pension), and safe working conditions, as well as unorganized sector features like lack of regulation, low/irregular wages, absence of job security, and lack of benefits. Therefore, the student demonstrates a comprehensive understanding of the differences between the two sectors, warranting full credit.",
       "concepts_in_question": [
-        "Organized sector characteristics",
-        "Unorganized sector characteristics",
-        "Government regulation and registration",
-        "Employment laws and rules",
-        "Working hours and wage regularity",
-        "Job security",
-        "Employee benefits (leave, medical, pension, etc.)",
-        "Working conditions and facilities",
-        "Wage levels and income regularity",
-        "Lack of social security in unorganized work"
+        "Organised sector registration and government regulation",
+        "Adherence to employment laws and acts",
+        "Fixed working hours and regular wages",
+        "Job security in organised sector",
+        "Benefits: paid leave, medical, provident fund, pension, gratuity",
+        "Safe working conditions and workplace facilities",
+        "Unorganised sector lack of effective government control",
+        "Low wages, irregular work or income",
+        "Lack of job security or arbitrary dismissal",
+        "Absence of benefits such as paid leave, overtime pay, medical, pension"
       ],
       "concepts_mastered": [
-        "Organized sector is registered/regulated by the government",
-        "Organized sector follows employment laws/rules",
-        "Organized sector offers fixed working hours and regular wages",
-        "Organized sector provides job security",
-        "Organized sector offers benefits such as paid leave, medical help, pension",
-        "Organized sector ensures safe workplace, clean environment, drinking water",
-        "Unorganized sector lacks effective government regulation",
-        "Unorganized sector features low wages and irregular work/income",
-        "Unorganized sector lacks job security (workers can be removed without notice)",
-        "Unorganized sector lacks benefits like paid leave, overtime, medical, pension"
+        "Organised sector registration and government regulation",
+        "Adherence to employment laws and acts",
+        "Fixed working hours and regular wages",
+        "Job security in organised sector",
+        "Benefits: paid leave, medical help, pension",
+        "Safe working conditions and workplace facilities",
+        "Unorganised sector lack of effective government control",
+        "Low wages and irregular work",
+        "Lack of job security",
+        "Absence of benefits such as paid leave, overtime pay, medical"
       ],
       "knowledge_gap": [
-        "Specific legislation names (e.g., Factories Act, Minimum Wages Act, Employees' State Insurance Act) that govern the organized sector",
-        "Examples of typical unorganized sector occupations (street vendors, construction laborers, domestic workers) beyond the generic description"
+        "Specific statutory benefit names (e.g., provident fund, gratuity) were not explicitly mentioned",
+        "Naming of specific labour laws or acts (e.g., Factories Act, Minimum Wages Act) was absent"
       ],
       "misconceptions": [],
       "feedback_for_improvement": [
-        "In future answers, mention specific Acts or policies that regulate the organized sector to demonstrate deeper factual recall.",
-        "Provide concrete examples of jobs in each sector (e.g., factory worker vs. street hawker) to illustrate the differences more vividly.",
-        "Include quantitative aspects where relevant, such as typical wage ranges or percentage of workforce in each sector, to enrich the answer."
+        "To strengthen answers, mention the exact names of key labour laws or acts that govern the organised sector (e.g., Factories Act, Minimum Wages Act, Employees' Provident Fund Act).",
+        "Explicitly list all mandated benefits such as provident fund and gratuity when discussing organised sector advantages.",
+        "Provide examples of typical unorganised sector occupations (e.g., street vendors, casual construction workers, domestic workers) to illustrate the lack of regulation and social security."
       ],
       "marks_awarded": 5,
       "total_possible_marks": 5
     },
     "token_usage": {
       "prompt_tokens": 2618,
-      "completion_tokens": 878,
-      "total_tokens": 3496
+      "completion_tokens": 1290,
+      "total_tokens": 3908
     }
   }
 ]

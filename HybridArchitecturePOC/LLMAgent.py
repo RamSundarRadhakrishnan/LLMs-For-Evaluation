@@ -69,7 +69,37 @@ class EvaluationAgent:
                     'content' : user_content
                 }
             ],
-            response_format={"type": "json_object"},
+            response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "evaluation_schema",
+                "strict": True,
+                "schema": {
+                    "type": "object",
+                        "properties": {
+                            "reasoning": {"type": "string"},
+                            "concepts_in_question": {"type": "array", "items": {"type": "string"}},
+                            "concepts_mastered": {"type": "array", "items": {"type": "string"}},
+                            "knowledge_gap": {"type": "array", "items": {"type": "string"}},
+                            "misconceptions": {"type": "array", "items": {"type": "string"}},
+                            "feedback_for_improvement": {"type": "array", "items": {"type": "string"}},
+                            "marks_awarded": {"type": "number"},
+                            "total_possible_marks": {"type": "number"}
+                        },
+                        "required": [
+                            "reasoning",
+                            "concepts_in_question",
+                            "concepts_mastered",
+                            "knowledge_gap",
+                            "misconceptions",
+                            "feedback_for_improvement",
+                            "marks_awarded",
+                            "total_possible_marks"
+                        ],
+                        "additionalProperties": False
+                    }
+                }
+            }
             )
             usage = response.usage
             content = response.choices[0].message.content
